@@ -1,13 +1,14 @@
-- This Code of Merit should not be needed in the first place, the fact that is does means there is something wrong with the solutions the software industry is stumbling with, recognize that fact, don't think your solution is the only solution.
+- This Code of Merit should not be needed in the first place: its necessity reveals the flaws of the current solutions being used in the software industry. Recognize that fact, and the existence of other viable solutions.
 - Software is like nature, it is evolutive, the best implementation must prevail.
-- You will contribute, you will learn, mistakes are allowed.
-- We are imperfect, recognize your imperfections and those of others, mistakes are not final, everybody has a second chance but don't expect others to do or help with you with your work forever. 
+- You will contribute, you will learn, and you will make mistakes. Mistakes not only are allowed, but foster this learning.
+- We are imperfect creatures by nature. Recognize your imperfections and those of others, that mistakes are not final, and that everybody has a second chance.
+- Conversely, recognize that others will not do or help with your work forever. Learning and improving is not optional for success.
 - Harassment as defined by law will not be allowed. Questioning is not harassment. Repeated questioning after an individual has stated their desire for disengagement is harassment. The difference is clear.
 - Censorship will not be permitted. Seeking to silence an individual voicing constructive opinions will not be allowed. Silencing vitriol is not censorship. The difference is clear.
 - This is a space for technical prowess, world politics have no place here.
-- Everything that makes a person individual including but not limited to body, sex, sexual preference, race, language, religion, nationality, or political preferences are irrelevant in the scope of a technical project.
-- Everybody is different, differences will not be mentioned by anyone, even by the individual suffering/experiencing/having/enjoying them, we are all individuals seeking the common goal of improving ourselves and improving our collective project.
-- There is no room for ambiguity, if an individual is ambiguous regarding a statement it is up to the individual to provide more context. Ambiguity will be met with questioning, further ambiguity will be met with silence.
-- If a discussion arises that cannot be solved in the space of the project, it will be ventilated/discussed in a separate space, disruption of the project will not be allowed.
-- Everybody is different but also everybody have the same rights and the same opportunities to try for, any challenge they want. The chance to screw up will not be denied to anybody.
+- Everything that makes a person an individual, including but not limited to body, sex, sexual preference, race, language, religion, nationality, or political preferences, is irrelevant in the scope of a technical project.
+- Everybody is and will continue to be different. Differences are not a weapon to be used against others for suffering or enjoyment. We are all individuals seeking the common goal of improving ourselves and improving our collective project. The only differences that matter are in technical prowess and opinion.
+- Regardless of differences, everybody has the same rights and the same opportunities to strive to meet any challenge they choose. The chance to make mistakes (see above) will not be denied to anybody.
+- There is no room for ambiguity: if an individual is ambiguous regarding a statement it is up to the individual to provide more context. Ambiguity will be met with questioning, further ambiguity will be met with silence.
+- If a discussion arises that cannot be solved in the space of the project, it will be ventilated/discussed in a separate space. Disruption of the project will not be allowed.
 - This Code of Merit does not take precedence over governing law.
